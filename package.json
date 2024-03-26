@@ -1,0 +1,26 @@
+{
+  "name": "testing-bubble-sort",
+  "version": "1.0.0",
+  "description": "testing bubble sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "fast-bubble-sort": "^1.0.2",
+    "testing-bubble-sort": "^1.0.0",
+    "debug": "^4.3.4",
+    "typescript": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karry-eth/testing-bubble-sort.git"
+  },
+  "homepage": "https://github.com/karry-eth/testing-bubble-sort",
+  "keywords": [
+    "bubble",
+    "sort"
+  ],
+  "author": "karry",
+  "license": "MIT"
+}
